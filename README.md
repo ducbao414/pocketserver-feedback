@@ -1,8 +1,17 @@
-# PocketServer Feedback
+## User Guide
+[Browsing iOS files & folders from Windows, Linux, Android, etc. without cloud or cables](https://b95.dev/blog/browsing-ios-files-and-folders-from-windows-linux-android-without-cloud-or-connected-cable)
+
+[Two-way transfer files and folders between iOS and Windows, Linux, Android, etc. without cloud or cables](https://b95.dev/blog/two-way-transfer-files-folders-between-ios-windows-linux-android-no-cable-cloud)
+
+[Set up & run local, persistent background WebDAV Server on iOS](https://b95.dev/blog/set-up-webdav-server-ios-iphone-ipad-pocketserver)
+
+[Use CLI on any OS to read-write your iPhone folders](https://b95.dev/blog/cli-any-os-read-write-iphone-folders-without-cloud-cable/)
+
+## Feedback
 
 This repository is for reporting bugs, requesting features, or asking questions about [PocketServer](https://apps.apple.com/app/id6743850070).
 
-PocketServer is an app for spinning up persistent background HTTP/WebDAV Servers and Local File Sharing on iOS and macOS. The app itself is not open source, but this space is available for users to give feedback or get support.
+PocketServer is an app for spinning up persistent background HTTP/WebDAV Servers and Local Files & Folders Sharing on iOS and macOS. The app itself is not open source, but this space is available for users to give feedback or get support.
 
 ## How to Use This Repo
 
