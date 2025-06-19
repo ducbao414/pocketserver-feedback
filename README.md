@@ -28,5 +28,4 @@ PocketServer is an app for spinning up persistent background HTTP/WebDAV Servers
 ## Notes
 
 - This repository is not for code contributions.
-- The source code for PocketServer is still not public.
 - For general discussion or other topics, feel free to open an issue tagged as a “question” or “discussion”.
