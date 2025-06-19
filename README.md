@@ -11,8 +11,6 @@
 
 This repository is for reporting bugs, requesting features, or asking questions about [PocketServer](https://apps.apple.com/app/id6743850070).
 
-PocketServer is an app for spinning up persistent background HTTP/WebDAV Servers and Local Files & Folders Sharing on iOS and macOS. The app itself is not open source, but this space is available for users to give feedback or get support.
-
 ## How to Use This Repo
 
 - Open an [issue](https://github.com/ducbao414/pocketserver-feedback/issues/new) if:
