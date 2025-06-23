@@ -1,11 +1,4 @@
-## User Guide
-[Browsing iOS files & folders from Windows, Linux, Android, etc. without cloud or cables](https://b95.dev/blog/browsing-ios-files-and-folders-from-windows-linux-android-without-cloud-or-connected-cable)
-
-[Two-way transfer files and folders between iOS and Windows, Linux, Android, etc. without cloud or cables](https://b95.dev/blog/two-way-transfer-files-folders-between-ios-windows-linux-android-no-cable-cloud)
-
-[Set up & run local, persistent background WebDAV Server on iOS](https://b95.dev/blog/set-up-webdav-server-ios-iphone-ipad-pocketserver)
-
-[Use CLI on any OS to read-write your iPhone folders](https://b95.dev/blog/cli-any-os-read-write-iphone-folders-without-cloud-cable/)
+[Documentation](https://pocketserver.one/en/documentation/)
 
 ## Feedback
 
